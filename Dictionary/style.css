@@ -20,6 +20,14 @@ body {
     border-radius: 10px;
     box-shadow: 0 20px 40px rgba(38, 33, 61, 0.2);
 }
+
+.header{
+    text-align: center;
+    font-size: 20px;
+    color: #1f194c;
+    margin-bottom: 5%;
+    margin-top: -10px;
+}
 .search-box {
     width: 100%;
     display: flex;
